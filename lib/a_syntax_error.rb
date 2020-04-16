@@ -3,6 +3,6 @@ x = 1
 x =
 
 
-2.times do
+5.times do
   puts "hi"
 end
